@@ -44,5 +44,5 @@ mysql> select * from users;
 
 ## References
 
-[MariaDB Official Image](https://hub.docker.com/_/mariadb)
-[MySQL Command Line Reference](https://dev.mysql.com/doc/refman/8.0/en/mysql-command-options.html)
+* [MariaDB Official Image](https://hub.docker.com/_/mariadb)
+* [MySQL Command Line Reference](https://dev.mysql.com/doc/refman/8.0/en/mysql-command-options.html)
